@@ -8,21 +8,21 @@ The perfect Ice-Breaker for open-source contributions; fixing a misspell is easy
 
 Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
 
-### 1. To fix a misspell on a BreatheCode Lesson:  
+### 1. Para corregir un error ortográfico en una lección de BreatheCode:  
 
-![Github logo on breathecode lesson](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
+![Logotipo de Github en la lección de breathecode ](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
-1.1. Click on the Github logo at the top of the lesson, it will take you to the lesson source file on github.com.  
-1.2. Click on the pencil icon (edit) and the lesson source file will become editable.  
-1.3. Fix the lesson misspell.  
-1.4. Click on "Propose file change" all the way to the bottom.  
+1.1. Haga clic en el logotipo de Github en la parte superior de la lección, lo llevará al archivo fuente de la lección en github.com.  
+1.2. Haga clic en el ícono de lápiz (editar) y el archivo fuente de la lección será editable.
+1.3. Arregle la falta de ortografía de la lección.
+1.4. Haga clic en "Proponer cambio de archivo" hasta el final.
 
 
-### 2. To fix a misspell on a BreatheCode Project:
+### 2. Para corregir un error ortográfico en un proyecto BreatheCode Project:
 
-![Contribute to breathecode project](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
+![Contribuir breathecode project](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
 
-2.1. Click on the "contribute" button on the right side of the project instructions.  
-2.2. Click on the pencil icon (edit) and the project README.md source file will become editable.  
-2.3. Fix the project misspell.  
-2.4. Click on "Propose file change" all the way to the bottom.  
+2.1. Haga clic en el botón "contribuir" en el lado derecho de las instrucciones del proyecto.  
+2.2. Haga clic en el ícono de lápiz (editar) y el archivo fuente del proyecto README.md será editable.
+2.3. Arregle el error ortográfico del proyecto. 
+2.4. Haga clic en "Proponer cambio de archivo" hasta el final.
