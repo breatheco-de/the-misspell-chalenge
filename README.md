@@ -4,7 +4,7 @@ Learning in Public means collaboration, and you don't have to be an expert to co
 
 The perfect Ice-Breaker for open-source contributions; fixing a misspell is easy and requires almost no github or git expertise.
 
-## 📝 Intructions
+## 📝 Instructions
 
 Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
 
