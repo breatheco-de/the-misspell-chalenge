@@ -20,7 +20,7 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
 
 ### 2. To fix a misspell on a BreatheCode Project:
 
-![Contribute to breathecode project](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
+![Contribute to breathecode project] (https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
 
 2.1. Click on the "contribute" button on the right side of the project instructions.  
 2.2. Click on the pencil icon (edit) and the project README.md source file will become editable.  
