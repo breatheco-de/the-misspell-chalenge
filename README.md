@@ -15,6 +15,8 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
 1.1. Click on the Github logo at the top of the lesson, it will take you to the lesson source file on github.com.  
 1.2. Click on the pencil icon (edit) and the lesson source file will become editable.  
 1.3. Fix the lesson misspell.  
+
+1.4. This step cannot be donde within de the reading from this lesson because the page on github doesn't exist anymore. 
  
 
 
