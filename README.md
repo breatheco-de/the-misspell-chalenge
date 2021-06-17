@@ -2,7 +2,7 @@
 
 Learning in Public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue!
 
-The perfect Ice-Breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or git expertise.
+The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or git expertise.
 
 ## 📝 Instructions
 
