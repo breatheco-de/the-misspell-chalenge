@@ -4,7 +4,7 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 
 El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere casi ninguna experiencia en Github.
 
-## 📝 Instrucciones
+## 📝 Instrucciones:
 
 Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de BreatheCode y crea una petición de extracción con la solución.
 
