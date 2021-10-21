@@ -13,16 +13,16 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de Brea
 ![Logotipo de Github en la lección BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
 1.1. Haz clic en el logo de Github en la parte superior de la lección, te llevará al archivo fuente de la lección en github.com.  
-1.2. Haga clic en el icono del lápiz (editar) y el archivo fuente de la lección será editable.  
+1.2. Haz clic en el icono del lápiz (editar) y el archivo fuente de la lección será editable.  
 1.3. Corregir el error ortográfico de la lección.  
-1.4. Haga clic en "Proponer cambio de archivo" hasta el final.  
+1.4. Haz clic en "Proponer cambio de archivo" hasta el final.  
 
 
 ### 2. Para corregir un error ortográfico en un Proyecto BreatheCode:
 
 ![Contribuir al proyecto BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
 
-2.1. Haga clic en el botón "contribuir" en el lado derecho de las instrucciones del proyecto.  
-2.2. Haga clic en el icono del lápiz (editar) y el archivo fuente del proyecto README.md será editable.  
-2.3. Arreglar el error ortográfico del proyecto.  
-2.4. Haga clic en "Proponer cambio de archivo" hasta el final. 
+2.1. Haz clic en el botón "contribuir" al lado derecho de las instrucciones del proyecto.  
+2.2. Haz clic en el archivo fuente del proyecto README.md y luego en el icono del lápiz para editar el archivo.  
+2.3. Arregla el error ortográfico del proyecto (o contribuye con nuevas aportaciones).  
+2.4. Haz clic en "Proponer cambio de archivo" hasta el final. 
