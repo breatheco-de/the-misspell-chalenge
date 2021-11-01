@@ -1,4 +1,4 @@
-# The Misspell Challenge
+# The Misspell Challengee
 
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue!
 
