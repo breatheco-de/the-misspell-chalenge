@@ -25,4 +25,4 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
 2.1. Click on the "contribute" button on the right side of the project instructions.  
 2.2. Click on the pencil icon (edit) and the project README.md source file will become editable.  
 2.3. Fix the project misspell.  
-2.4. Click on "Propose changes" all the way to the bottom.  
+2.4. Click on "Propose changes" all the way at the bottom.  
