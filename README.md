@@ -28,4 +28,4 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
 2.4. Click on "Propose changes" all the way to the bottom.  
 
 
-sin correcci-on solo practico 
+sin correcci-on solo practico git 
