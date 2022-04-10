@@ -17,7 +17,6 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de Brea
 1.3. Corregir el error ortográfico de la lección.  
 1.4. Haga clic en "Proponer cambio de archivo" hasta el final.  
 
-
 ### 2. Para corregir un error ortográfico en un Proyecto BreatheCode:
 
 ![Contribuir al proyecto BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
