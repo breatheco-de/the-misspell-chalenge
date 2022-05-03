@@ -3,13 +3,13 @@
 <!-- endhide -->
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue!
 
-The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or git expertise.
+THE PERFECT ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or git expertise.
 
 ## 📝 Instructions
 
 Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
 
-### 1. To fix a misspell on a BreatheCode Lesson:  
+### 1. To fix a Misspell on a BreatheCode Lesson:  
 
 ![Github logo on BreatheCode lesson](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
@@ -19,7 +19,7 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
  
 
 
-### 2. To fix a misspell on a BreatheCode Project:
+### 2. To Fix a Misspell on a BreatheCode Project:
 
 ![Contribute to BreatheCode project](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
 
