@@ -1,11 +1,11 @@
 <!-- hide -->
-# The Misspell Challenge
+# The Misspell Challenge.
 <!-- endhide -->
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue!
 
 The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or git expertise.
 
-## 📝 Instructions
+## 📝 Instructions.
 
 Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
 
