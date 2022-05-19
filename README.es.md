@@ -15,7 +15,7 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de Brea
 1.1. Haz clic en el logo de Github en la parte superior de la lección, te llevará al archivo fuente de la lección en github.com.  
 1.2. Haga clic en el icono del lápiz (editar) y el archivo fuente de la lección será editable.  
 1.3. Corregir el error ortográfico de la lección.  
-1.4. Haga clic en "Proponer cambio de archivo" hasta el final.  
+1.4. Haga clic en "Proponer cambios en el archivo" hasta el final.  
 
 
 ### 2. Para corregir un error ortográfico en un Proyecto BreatheCode:
