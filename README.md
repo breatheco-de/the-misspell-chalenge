@@ -8,6 +8,7 @@ The perfect ice-breaker for open-source contributions; fixing a misspell is easy
 ## 📝 Instructions
 
 Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
+I wuold like add this line for learnig propuoses.
 
 ### 1. To fix a misspell on a BreatheCode Lesson:  
 
