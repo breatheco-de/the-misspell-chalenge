@@ -26,3 +26,7 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de Brea
 2.2. Haga clic en el icono del lápiz (editar) y el archivo fuente del proyecto README.md será editable.  
 2.3. Arreglar el error ortográfico del proyecto.  
 2.4. Haga clic en "Proponer cambio de archivo" hasta el final. 
+
+
+
+Acá iria un cambio ya que no encontré un error ortográfico. 
