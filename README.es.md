@@ -10,7 +10,9 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de Brea
 
 ### 1. Para corregir un error ortográfico en una lección de BreatheCode:  
 
-![Logotipo de Github en la lección BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
+![edit on Github](/workspace/the-misspell-chalenge/github-logo2.png.png)
+
+![edit on Github](github-logo2.png.png)
 
 1.1. Haz clic en el logo de Github en la parte superior de la lección, te llevará al archivo fuente de la lección en github.com.  
 1.2. Haga clic en el icono del lápiz (editar) y el archivo fuente de la lección será editable.  
