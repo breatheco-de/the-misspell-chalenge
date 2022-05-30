@@ -6,7 +6,7 @@ El perfecto rompehielos para las contribuciones de código abierto: arreglar un 
 
 ## 📝 Instrucciones
 
-Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de BreatheCode y crea una petición de extracción con la solución.
+Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks.com y crea una petición de extracción con la solución.
 
 ### 1. Para corregir un error ortográfico en una lección de BreatheCode:  
 
