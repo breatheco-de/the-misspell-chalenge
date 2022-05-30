@@ -6,11 +6,11 @@ El perfecto rompehielos para las contribuciones de código abierto: arreglar un 
 
 ## 📝 Instrucciones
 
-Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de BreatheCode y crea una petición de extracción con la solución.
+Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea una petición de extracción con la solución.
 
-### 1. Para corregir un error ortográfico en una lección de BreatheCode:  
+### 1. Para corregir un error ortográfico en una lección de 4Geeks:  
 
-![Logotipo de Github en la lección BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
+![Logotipo de Github en la lección #4Geeks](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
 1.1. Haz clic en el logo de Github en la parte superior de la lección, te llevará al archivo fuente de la lección en github.com.  
 1.2. Haga clic en el icono del lápiz (editar) y el archivo fuente de la lección será editable.  
@@ -18,9 +18,9 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de Brea
 1.4. Haga clic en "Proponer cambio de archivo" hasta el final.  
 
 
-### 2. Para corregir un error ortográfico en un Proyecto BreatheCode:
+### 2. Para corregir un error ortográfico en un Proyecto en 4Geeks:
 
-![Contribuir al proyecto BreatheCode](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
+![Contribuir al proyecto #4Geeks](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
 
 2.1. Haga clic en el botón "contribuir" en el lado derecho de las instrucciones del proyecto.  
 2.2. Haga clic en el icono del lápiz (editar) y el archivo fuente del proyecto README.md será editable.  
