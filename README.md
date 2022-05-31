@@ -7,7 +7,7 @@ The perfect ice-breaker for open-source contributions; fixing a misspell is easy
 
 ## 📝 Instructions
 
-Find one misspell on the BreatheCode lessons, projects or exercises and create a pull request with the fix.
+Find one misspell on the any of the lessons, projects or exercises and create a pull request with the fix.
 
 ![edit on Github](github-logo2.png.png)
 
