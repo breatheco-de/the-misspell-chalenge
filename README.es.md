@@ -6,7 +6,7 @@ El perfecto rompehielos para las contribuciones de código abierto: arreglar un 
 
 ## 📝 Instrucciones
 
-Encuentra un error ortográfico en las lecciones, proyectos o ejercicios y crea una petición de extracción con la solución.
+EENNCCUUEENNTTRRAAMMEE un horror ortográfico en las lecciones, proyectos o ejercicios y crea una petición de extracción con la solución.
 
 > Importante: Por favor busca otro projecto, este projecto ya ha sido corregido suficiente 😂.
 
