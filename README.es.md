@@ -12,7 +12,7 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios y crea 
 
 ![edit on Github](github-logo2.png.png)
 
-1.1. Haz clic en el icono del lápiz que dice "Edit on Github" en parte superior derecha de la lección, y el archivo fuente de la lección será editable.
+1.1. Haz click en el icono del lápiz que dice "Edit on Github" en parte superior derecha de la lección, y el archivo fuente de la lección será editable.
 
 1.2. Corrige el error ortográfico de la lección.
 
