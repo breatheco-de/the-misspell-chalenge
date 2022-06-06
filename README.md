@@ -7,7 +7,7 @@ The perfect ice-breaker for open-source contributions; fixing a misspell is easy
 
 ## 📝 Instructions
 
-Find one misspell on the any of the lessons, projects or exercises and create a pull request with the fix.
+Find one misspell on any of the lessons, projects or exercises and create a pull request with the fix.
 
 > Important: Please find another project to fix, this project has already been fixed enough 😂
 
