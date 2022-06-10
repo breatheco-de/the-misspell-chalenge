@@ -8,7 +8,7 @@ El perfecto rompehielos para las contribuciones de código abierto: arreglar un 
 
 Encuentra un error ortográfico en las lecciones, proyectos o ejercicios y crea una petición de extracción con la solución.
 
-> Importante: Por favor busca otro projecto, este projecto ya ha sido corregido suficiente 😂.
+> Importante: Por favor busca otro proyecto, este proyecto ya ha sido corregido suficiente 😂.
 
 ![edit on Github](github-logo2.png.png)
 
