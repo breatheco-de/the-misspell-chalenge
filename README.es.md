@@ -21,6 +21,6 @@ Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Gee
 ![Contribuir al proyecto #4Geeks](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
 
 2.1. Haz clic en el botón "contribuir" en el lado derecho de las instrucciones del proyecto.  
-2.2. Haz clic en el icono del lápiz (editar) y el archivo fuente del proyecto README.md será editable.  
+2.2. Haz clic en el ícono del lápiz (editar) y el archivo fuente del proyecto README.md será editable.  
 2.3. Arregla el error ortográfico del proyecto.  
 2.4. Haz clic en "Proponer cambio de archivo" hasta el final. 
