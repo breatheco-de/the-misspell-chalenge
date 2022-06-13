@@ -18,3 +18,10 @@ Find one misspell on any of the lessons, projects or exercises and create a pull
 1.2. Correct the misspelling of the lesson.
 
 1.3. Finally, click on "Pull Request".
+
+2. To correct a misspelling in a Project on 4Geeks:
+
+![Contribute to the project #4Geeks](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/47f0f5df-32df-4367-ad5f-0b838fe6dcb9.png?raw=true)
+
+2.1. Click on the button "contribute" on the right side of project instructions.
+2.2 click on the pencil icon (edit) and the project archive REDME.md will be editable
