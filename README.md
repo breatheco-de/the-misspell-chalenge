@@ -13,7 +13,7 @@ Find one misspell on any of the lessons, projects or exercises and create a pull
 
 ![edit on Github](github-logo2.png.png)
 
-1.1. Click the pencil icon that says "Edit on Github" at the top right of the lesson, and the lesson source file will be editable. 
+1.1. Click the pencil icon that says "edit on Github" at the top right corner of the lesson, and the lesson source file will be editable. 
 
 1.2. Correct the misspelling of the lesson.
 
