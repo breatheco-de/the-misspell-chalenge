@@ -4,7 +4,7 @@
 	"slug" : "fix-the-misspell",
 	"preview": "https://github.com/breatheco-de/the-misspell-chalenge/raw/master/preview.png?raw=true",
 	"status": "published",
-  "visibility": "internal",
+  	"visibility": "internal",
 	"translations": ["es", "en"],
 	"duration" : 6,
 	"difficulty": "junior",
