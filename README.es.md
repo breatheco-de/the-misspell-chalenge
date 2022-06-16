@@ -4,7 +4,7 @@ Aprender en público significa colaboración y no tienes que ser un experto para
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
 
-![edit on Github](github-logo2.png)
+![edit on Github](./assets/github-logo2.png)
 
 1. Haz clic en el icono del lápiz que dice "Edit on Github" en parte superior derecha de la lección, y el archivo fuente de la lección será editable.
 
