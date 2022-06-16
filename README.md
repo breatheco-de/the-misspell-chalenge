@@ -5,7 +5,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
 
-![edit on Github](github-logo2.png.png)
+![edit on Github](github-logo2.png)
 
 1. Click the pencil icon that says "Edit on Github" at the top right of the lesson, and the lesson source file will be editable. 
 
