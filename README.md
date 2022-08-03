@@ -5,13 +5,13 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
 
-![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
+![Edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assetsGITHUB -logo2.png?raw=true)
 
-1. Click the pencil icon that says "Edit on Github" at the top right of the lesson, and the lesson source file will be editable. 
+1. Click the pencil icon that says "Edit onnn Github" at the top right of the lesson, and the lesson source file will be editable. 
 
-2. Correct the misspelling of the lesson.
+2. Correct the misspelling of the leeesson.
 
-3. Finally, click on `"Pull Request"`.
+3. Finally, click on `"Pullll Request"`.
 
 ## 📝 Instructions:
 
