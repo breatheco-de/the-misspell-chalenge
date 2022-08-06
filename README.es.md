@@ -1,4 +1,4 @@
-# El desafío del error ortográfico
+# El desafío del error ortográfico.
 
 Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en Github o Git.
  
