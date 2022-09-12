@@ -1,6 +1,6 @@
 name: Validate Integrity
 
-on: [PUSH]
+on: [push]
 
 jobs:
   build:
