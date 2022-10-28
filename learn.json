@@ -1,6 +1,6 @@
   
 {
-	"title" : "Fix the Misspell Challenge",
+	"title" : "Fix the Misspell Challenge JOSEPH",
 	"slug" : "fix-the-misspell",
 	"preview": "https://github.com/breatheco-de/the-misspell-chalenge/raw/master/preview.png?raw=true",
 	"status": "published",
@@ -13,4 +13,5 @@
 	"talents": [],
     "autoPlay": false,
     "projectType": "project"
+	
 }
