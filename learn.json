@@ -7,7 +7,7 @@
   	"visibility": "internal",
 	"translations": ["es", "en"],
 	"duration" : 6,
-	"difficulty": "junior",
+	"difficulty": "easy",
 	"technologies": ["github"],	
 	"description" : "Your first open-source contribution",
 	"talents": [],
