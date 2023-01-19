@@ -17,5 +17,8 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 1. Find one misspell on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
 
+        or
+2. Add something in the lesson, all the misspells have already been fixed
+
 > **IMPORTANT**: Please find another project to fix, this project has already been fixed enough 😂
 
