@@ -12,9 +12,9 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 
 3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
 
-## 📝 Instrucciones:
+## 📝 Instrucciones
 
-1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
+- Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
 
 > **IMPORTANTE**: busca otro proyecto para arreglar, este proyecto ya se ha arreglado lo suficiente.😂
 
