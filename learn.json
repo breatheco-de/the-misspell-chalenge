@@ -9,7 +9,7 @@
 	"duration" : 6,
 	"difficulty": "easy",
 	"technologies": ["github"],	
-	"description" : "Your first open-source contribution",
+	"description" : "This is your first open-source contribution",
 	"talents": [],
     "autoPlay": false,
     "projectType": "project"
