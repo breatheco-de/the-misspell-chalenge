@@ -2,14 +2,14 @@
 The Misspelled Challenge
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspelled words come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspelling is easy and requires almost no GitHub or Git experience.
 
-🔷 How to fix a misspelling on a 4Geeks lesson:
+🔷 How to fix a misspelling on a 4Geeks lesson:xd
 edit on GitHub
 
 Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable.
 
 Correct the misspelling of the lesson.
 
-Finally, click on "Pull Request."
+Finally, click on "Pull Request .
 
 📝 Instructions:
 Find one misspelled word in any of the 4Geeks lessons, projects, or exercises and create a pull request with the fix.
