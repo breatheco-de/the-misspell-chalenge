@@ -4,7 +4,7 @@
 
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
 
-## 🔷 How to fix a misspell on a 4Geeks Lesson:  
+## 🔷 How to fix a misspell on a 4Geeks Lesson, also in English, because we are bilinguals, okay?:  
 
 ![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
@@ -14,10 +14,10 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 3. Finally, click on `"Pull Request"`.
 
-## 📝 Instructions:
+## 📝 Instructions for you and your class partner's boy:
 
 1. Find one misspell on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
 
-> 👉 **IMPORTANT**: Please find another project to fix, this project has already been fixed enough 😂
+> 👉 **IMPORTANT! BUT VERY IMPORTANT!**: Please find another project to fix, this project has already been fixed enough 😂
 
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
