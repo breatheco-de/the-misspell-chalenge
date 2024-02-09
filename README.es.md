@@ -21,3 +21,10 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 > 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
 
 Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+
+Busqué por todas las lecciones y no encontre el error ortografico Q.Q
+
+La RAE estaría orgullosa de la página.
+
+Como mucho encontré que la lección "Ejercicios Interactivos en Git" está en ingles, al presionar le botón "Editar en GitHub" salta directamente al ejercicio, como si se le hubiese dado a "click here to open it on a new window". Escribo estás lineas
+para hacer el pull request. 
