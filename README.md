@@ -15,6 +15,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 3. Finally, click on `"Pull Request"`.
 
 ## 📝 Instructions:
+la modificación de anna
 
 1. Find one misspell on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
 
