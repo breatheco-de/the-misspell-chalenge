@@ -1,5 +1,5 @@
 <!-- hide -->
-# The Misspell Challenge
+
 <!-- endhide -->
 
 Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
@@ -8,7 +8,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 ![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
-1. Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable. 
+1. Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, correcting the misspell chalange right here in this line
 
 2. Correct the misspelling of the lesson.
 
