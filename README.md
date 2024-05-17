@@ -1,8 +1,8 @@
 <!-- hide -->
-# The Misspell Challenge
+# The Misspelling Challenge
 <!-- endhide -->
 
-Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
+Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspellings come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspelling is easy and requires almost no GitHub or Git experience.
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
 
@@ -16,7 +16,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 ## 📝 Instructions:
 
-1. Find one misspell on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
+1. Find one misspelling on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
 
 > 👉 **IMPORTANT**: Please find another project to fix, this project has already been fixed enough 😂
 
