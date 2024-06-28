@@ -5,7 +5,7 @@
 Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
-
+cambios practica
 ![editar en Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
 1. Haz clic en el ícono del lápiz que dice "Editar en Github" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
