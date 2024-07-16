@@ -1,14 +1,14 @@
 <!-- hide -->
 # The Misspell Challenge
-<!-- endhide -->
+<!-- end hide -->
 
-Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
+Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspelling is easy and requires almost no GitHub or Git experience.
 
-## 🔷 How to fix a misspell on a 4Geeks Lesson:  
+## 🔷 How to fix a misspelling on a 4Geeks Lesson:  
 
 ![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
-1. Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable. 
+1. Click the pencil icon "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable. 
 
 2. Correct the misspelling of the lesson.
 
@@ -16,7 +16,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 ## 📝 Instructions:
 
-1. Find one misspell on any of the 4Geeks lessons, projects or exercises and create a `pull request` with the fix.
+1. Find one misspelling on any of the 4Geeks lessons, projects, or exercises and create a `pull request` with the fix.
 
 > 👉 **IMPORTANT**: Please find another project to fix, this project has already been fixed enough 😂
 
