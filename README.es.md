@@ -8,11 +8,13 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 
 ![editar en Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
-1. Haz clic en el ícono del lápiz que dice "Editar en Github" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
+1. Haz clic en el ícono del lápiz que dice "Editar en Github" en la parte superior derecha de la lección y el archivo fuente de la lección será editable.
 
 2. Corrige el error ortográfico de la lección.
 
-3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
+3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).
+   
+5. Copiar la URL que aparece en la parte superior (la cual apunta a su proyecto) y pegar en la ventana que aparece al clickear en el boton "enviar proyecto".
 
 ## 📝 Instrucciones:
 
