@@ -2,7 +2,7 @@
 # The Misspell Challenge
 <!-- endhide -->
 
-Learning in public means collaboration, and you don't have to be an expert to collaborate. Misspells come to the rescue! The perfect ice-breaker for open-source contributions; fixing a misspell is easy and requires almost no GitHub or Git experience.
+Learning in public encourages collaboration and doesn’t require expertise. Correcting misspellings is an easy and effective way to start contributing to open-source projects, needing minimal GitHub experience. This small action can help you build confidence and engage with the community.
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
 
