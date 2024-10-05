@@ -1,6 +1,7 @@
 <!-- hide -->
 # El desafío del error ortográfico
 <!-- endhide -->
+En el segundo párrafo donde la imagen pone: A web developer makes $65k per year. sería más correcto (en mi opinión) utilizar el verbo to earn, pues se refiere a que esta ganando dinero con el trabajo. La frase quedaría así: A web developer earns $65k per year.
 
 Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
  
