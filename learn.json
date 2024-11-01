@@ -8,7 +8,7 @@
 	"translations": ["es", "en"],
 	"duration" : 6,
 	"difficulty": "easy",
-	"technologies": ["github"],	
+	"technologies": ["github", "git"],	
 	"description" : "Your first open-source contribution",
 	"talents": [],
     "autoPlay": false,
