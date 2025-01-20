@@ -13,7 +13,7 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 2. Corrige el error ortográfico de la lección.
 
 3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
-
+ejemplo 4geeks
 ## 📝 Instrucciones:
 
 1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
