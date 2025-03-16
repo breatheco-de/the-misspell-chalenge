@@ -1,4 +1,4 @@
-<!-- hide -->
+<!-- hide --> 
 # El desafío del error ortográfico
 <!-- endhide -->
 
