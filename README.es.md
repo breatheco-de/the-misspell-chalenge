@@ -1,3 +1,5 @@
+<!-- No encontré ningún error ortográfico -->
+
 <!-- hide -->
 # El desafío del error ortográfico
 <!-- endhide -->
