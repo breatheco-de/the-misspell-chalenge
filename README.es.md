@@ -1,8 +1,8 @@
 <!-- hide -->
-# El desafío del error ortográfico
+# El desafío del error ortográfico:
 <!-- endhide -->
 
-Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
+Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate.! El perfecto rompehielos para las contribuciones de código abierto, arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
 
@@ -12,11 +12,11 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 
 2. Corrige el error ortográfico de la lección.
 
-3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
+3. Por último, haz clic en "Pull Request" (Proponer cambio de archivo).  
 
 ## 📝 Instrucciones:
 
-1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
+1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un "pull request" con la solución.
 
 > 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
 
