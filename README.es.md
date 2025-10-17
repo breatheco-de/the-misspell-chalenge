@@ -1,4 +1,4 @@
-<!-- hide -->
+<!-- hide --><!-- Fabio -->
 # El desafío del error ortográfico
 <!-- endhide -->
 
