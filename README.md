@@ -1,4 +1,4 @@
-<!-- hide -->
+<!-- endhide -->
 # The Misspell Challenge
 <!-- endhide -->
 
