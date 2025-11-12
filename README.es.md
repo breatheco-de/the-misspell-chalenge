@@ -2,6 +2,14 @@
 # El desafío del error ortográfico
 <!-- endhide -->
 
+Ay mecachis una línea que no debía estar ahí
+
+Y más cambios oleole qué locura
+
+Y todavía más cambios porque nos encanta git
+
+oleoleole
+
 Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
