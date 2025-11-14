@@ -3,6 +3,8 @@
 <!-- endhide -->
 
 Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
+
+No me puedo sacar esta canción de la cabeza ▶ https://www.youtube.com/watch?v=ZbUENJ5FjBk&list=RDZbUENJ5FjBk&start_radio=1&pp=ygUlbWlsbGkgdmFuaWxsaSBnaXJsIGknbSBnb25uYSBtaXNzIHlvdaAHAQ%3D%3D
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
 
