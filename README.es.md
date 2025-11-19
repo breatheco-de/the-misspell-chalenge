@@ -1,23 +1,19 @@
-<!-- hide -->
-# El desafío del error ortográfico
-<!-- endhide -->
+El desafío del error ortográfico
+Aprender en público significa colaboración, y no es necesario ser un experto para contribuir. ¡Los errores ortográficos son la oportunidad perfecta! Son el rompehielos ideal para las contribuciones de código abierto: corregir una errata es sencillo y no requiere de mucha experiencia en GitHub o Git.
 
-Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
- 
-## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
+🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:
+Para proponer una corrección, sigue estos sencillos pasos directamente en GitHub:
 
-![editar en Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
+Busca el icono que dice "Editar en GitHub" (generalmente un lápiz ✏️) en la parte superior derecha de la lección. Haz clic en él y el archivo fuente se abrirá en modo editable.
 
-1. Haz clic en el ícono del lápiz que dice "Editar en Github" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
+Corrige el error ortográfico directamente en el código del archivo.
 
-2. Corrige el error ortográfico de la lección.
+Una vez hecha la corrección, desplázate hasta abajo y haz clic en "Proponer cambio de archivo" (o "Commit changes"). Esto te guiará para crear un Pull Request (PR).
 
-3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
+📝 Instrucciones:
+Encuentra un error ortográfico en cualquiera de las lecciones, proyectos o ejercicios de 4Geeks y crea un Pull Request con la solución.
 
-## 📝 Instrucciones:
+👉 ¡IMPORTANTE! Para este desafío, busca otro proyecto para corregir. Este ya ha recibido suficientes correcciones. 😉
 
-1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
-
-> 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
-
-Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+Contexto Adicional (No es necesario modificar, pero se puede mejorar el formato si se desea)
+Este y otros proyectos son usados por los alumnos de 4Geeks Academy en su Coding Bootcamp para aprender a programar. Fue realizado por Alejandro Sánchez y muchos otros contribuyentes. Conoce más sobre nuestros Cursos de Programación para convertirte en Full Stack Developer, o nuestro Data Science Bootcamp.
