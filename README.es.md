@@ -12,7 +12,7 @@ Aprender en público significa colaboración y no tienes que ser un experto para
 
 2. Corrige el error ortográfico de la lección.
 
-3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
+3. Por último, haz clic en `"Pull Request"` (Proponer cambio en el archivo).  
 
 ## 📝 Instrucciones:
 
