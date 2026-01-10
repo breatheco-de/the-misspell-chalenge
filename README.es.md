@@ -1,3 +1,6 @@
+Executive Summary: The Future of Software Development in the AI Era
+In the coming years, the role of code developers is undergoing a fundamental transformation. Rather than being replaced, programmers are evolving into AI Orchestrators and System Architects.
+
 <!-- hide -->
 # El desafío del error ortográfico
 <!-- endhide -->
