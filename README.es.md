@@ -1,4 +1,4 @@
-<!-- hide -->
+Anexar tablas, para las sifras.<!-- hide -->
 # El desafío del error ortográfico
 <!-- endhide -->
 
