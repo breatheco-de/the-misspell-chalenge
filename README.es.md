@@ -1,8 +1,7 @@
 <!-- hide -->
 # El desafío del error ortográfico
 <!-- endhide -->
-
-Aprender en público significa colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto; arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
+Aprender en público significa colaboración y no tienes que ser un experto para colaborar. Incluso algo tan simple como corregir un error ortográfico puede ser una gran contribución. De hecho, estos pequeños errores suelen ser un excelente punto de partida para comenzar a participar en proyectos de código abierto: son fáciles de solucionar y no requieren mucha experiencia previa con GitHub o Git.
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
 
