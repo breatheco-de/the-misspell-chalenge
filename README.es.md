@@ -1,4 +1,5 @@
 <!-- hide -->
+<!-- Yo la verdad pondria otro tipo de ejercicio -_- -->
 # El desafío del error ortográfico
 <!-- endhide -->
 
