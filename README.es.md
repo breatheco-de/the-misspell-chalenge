@@ -10,9 +10,11 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 
 1. Haz clic en el icono del lápiz que dice "Editar en GitHub" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
 
-2. Corrige el error ortográfico de la lección.
+2. Crear un fork sobre el cual puedas trabajar para realizar el cambio aparte. 
 
-3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
+3. Corrige el error ortográfico de la lección.
+
+4. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
 
 ## 📝 Instrucciones:
 
