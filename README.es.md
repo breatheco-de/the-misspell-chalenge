@@ -1,5 +1,5 @@
 <!-- hide -->
-# El desafío del error ortográfico
+# El desafío del error ortográfico!!
 <!-- endhide -->
 
 Aprender en público significa hacerlo en colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto, arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
@@ -10,7 +10,7 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 
 1. Haz clic en el icono del lápiz que dice "Editar en GitHub" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
 
-2. Corrige el error ortográfico de la lección.
+2. Corrige el error ortográfico de la lección para completar el ejercicio.
 
 3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
 
