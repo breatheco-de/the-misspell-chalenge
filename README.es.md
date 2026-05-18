@@ -13,7 +13,7 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 2. Corrige el error ortográfico de la lección.
 
 3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
-
+ncfnsnvolslefolhaeflojael
 ## 📝 Instrucciones:
 
 1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
