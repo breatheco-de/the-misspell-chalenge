@@ -1,4 +1,4 @@
-<!-- hide -->
+<!-- hide -->Hello World!
 # El desafío del error ortográfico
 <!-- endhide -->
 
