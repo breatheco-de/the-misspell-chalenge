@@ -12,7 +12,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 2. Correct the misspelling of the lesson.
 
-3. Finally, click on `"Pull Request"`.
+3. Finally, click on `Pull Request`.
 
 ## 📝 Instructions:
 
