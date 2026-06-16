@@ -11,8 +11,9 @@ Learning in public means collaboration, and you don't have to be an expert to co
 1. Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable. 
 
 2. Correct the misspelling of the lesson.
+3. xsax
 
-3. Finally, click on `"Pull Request"`.
+4. Finally, click on `"Pull Request"`.
 
 ## 📝 Instructions:
 
