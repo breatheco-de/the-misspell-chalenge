@@ -6,7 +6,7 @@ Learning in public means collaboration, and you don't have to be an expert to co
 
 ## 🔷 How to fix a misspell on a 4Geeks Lesson:  
 
-![edit on Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
+![edit on Github](https://github.com/breatheco-de/the-misspell-challenge/blob/master/assets/github-logo2.png?raw=true)
 
 1. Click the pencil icon that says "Edit on GitHub" at the top right of the lesson, and the lesson source file will be editable. 
 
