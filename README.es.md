@@ -1,4 +1,19 @@
 <!-- hide -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="700" alt="Programador trabajando duro" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700" alt="Programador trabajando duro" />
+</p>
+
+<p align="center">
+Me distraje y no consegui el error ortografico 
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="700" alt="Programador trabajando duro" />
+</p>
+
+
 # El desafío del error ortográfico
 <!-- endhide -->
 
