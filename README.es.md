@@ -10,13 +10,13 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 
 1. Haz clic en el icono del lápiz que dice "Editar en GitHub" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
 
-2. Corrige el error ortográfico de la lección.
+2. Corrige el herror ortográfico de la lección. 
 
 3. Por último, haz clic en `"Pull Request"` (Proponer cambio de archivo).  
 
 ## 📝 Instrucciones:
 
-1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
+1. Encuentra un error ortográfico en las lecciones, proyectos o egercicios de 4Geeks y crea un `pull request` con la solución.
 
 > 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
 
