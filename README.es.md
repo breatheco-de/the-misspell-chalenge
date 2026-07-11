@@ -17,6 +17,7 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 ## 📝 Instrucciones:
 
 1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
+2. Si tienes inquietudes respecto Github, puedes consultar aquí, Ya que Git un sistema de control de versiones distribuido que se diferencia del resto en el modo en que modela sus datos, esto te ayudara en casos concretos de su entorno [Introducción a Git y GitHub](https://www.uco.es/aulasoftwarelibre/wp-content/uploads/2015/11/git-cosfera-dia-1.pdf)
 
 > 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
 
