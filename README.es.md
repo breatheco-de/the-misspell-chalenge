@@ -17,6 +17,7 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 ## 📝 Instrucciones:
 
 1. Encuentra un error ortográfico en las lecciones, proyectos o ejercicios de 4Geeks y crea un `pull request` con la solución.
+modificado
 
 > 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
 
