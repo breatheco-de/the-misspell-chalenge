@@ -1,6 +1,7 @@
 <!-- hide -->
 # El desafío del error ortográfico
 <!-- endhide -->
+# estoy haciendo este cambio para explicar como hacer el pull request.
 
 Aprender en público significa hacerlo en colaboración y no tienes que ser un experto para colaborar. ¡Los errores ortográficos vienen al rescate! El perfecto rompehielos para las contribuciones de código abierto, arreglar un error ortográfico es fácil y no requiere de mucha experiencia en GitHub o Git.
  
