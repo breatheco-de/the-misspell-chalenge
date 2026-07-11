@@ -6,7 +6,7 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
  
 ## 🔷 Cómo corregir un error ortográfico en una lección de 4Geeks:  
 
-![editar en Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
+![Editar en Github](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/assets/github-logo2.png?raw=true)
 
 1. Haz clic en el icono del lápiz que dice "Editar en GitHub" en la parte superior derecha de la lección, y el archivo fuente de la lección será editable.
 
@@ -20,4 +20,4 @@ Aprender en público significa hacerlo en colaboración y no tienes que ser un e
 
 > 👉 **IMPORTANTE**: busca otro proyecto para corregir, este proyecto ya se ha corregido lo suficiente 😂
 
-Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+Este y otros proyectos son usados para [Aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
